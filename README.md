@@ -8,7 +8,7 @@ Vamos utilizar a biblioteca **react Router**.
 
 Para executar este exercício, você pode criar uma nova aplicação React, como foi visto na aula passada, ou utilizar o link abaixo para ir ao template no **CodeSandbox**. Este template para exatamente onde o exercício da última aula acaba.
 
-[**Template do CodeSandbox**](https://codesandbox.io/s/exercicio-react-router-jozzkz)
+[**Template do CodeSandbox**](https://codesandbox.io/s/exercicio-react-router-fz3xk0)
 
 Caso queira criar uma nova aplicação React, basta copiar os conteúdos deste repositório e colar dentro da pasta do seu projeto criado.
 
