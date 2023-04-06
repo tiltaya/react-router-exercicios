@@ -1,8 +1,12 @@
+import Header from "../components/Header";
+import { MainContainer } from "../style";
+
 function HomePage() {
   return (
-    <section>
-      <h1>Página inicial</h1>
-    </section>
+    <MainContainer>
+      <Header />
+      <h1>Página Inicial</h1>
+    </MainContainer>
   );
 }
 
