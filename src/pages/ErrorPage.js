@@ -1,8 +1,12 @@
+import Header from "../components/Header";
+import { MainContainer } from "../style";
+
 function ErrorPage() {
   return (
-    <section>
-      <h1>Página não encontrada</h1>
-    </section>
+    <MainContainer>
+    <Header/>
+    <h1>Página não encontrada</h1>
+  </MainContainer>
   );
 }
 
